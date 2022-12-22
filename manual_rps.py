@@ -18,7 +18,7 @@ def get_user_choice():
     #self.user_choice = user_choice
     
  #   if computer_choice == user_choice:
-        print('It is a tie!')
+        #print('It is a tie!')
   #  elif (
    #     (computer_choice == 'rock' and user_choice == 'scissors') or
     #    (computer_choice == 'paper' and user_choice == 'rock') or
