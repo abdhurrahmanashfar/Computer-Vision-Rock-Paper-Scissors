@@ -2,8 +2,8 @@ import random
 
 word_list = ["rock", "paper", "scissors"]
 
-def get_computer_choice(self):
-    self.computer_choice = random.choice(word_list)
+def get_computer_choice():
+    computer_choice = random.choice(word_list)
     return computer_choice
 
 
