@@ -3,8 +3,8 @@ import random
 #word_list = ["rock", "paper", "scissors"]
 
 def get_computer_choice():
-    word_list = ["rock", "paper", "scissors"]
-    computer_choice = random.choice(word_list).lower()
+    word_list = ["Rock", "Paper", "Scissors"]
+    computer_choice = random.choice(word_list)
     return computer_choice
 
 
