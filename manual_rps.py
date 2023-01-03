@@ -9,7 +9,7 @@ def get_computer_choice():
 
 
 def get_user_choice():
-    user_choice = input("Rock, Paper, Scissors: ").lower()
+    user_choice = input("Rock, Paper, Scissors: ")
     return user_choice
 
 def get_winner(computer_choice, user_choice):
