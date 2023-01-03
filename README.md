@@ -1,6 +1,7 @@
 # Computer Vision RPS
 
-![rockpaperscissors](https://user-images.githubusercontent.com/117317215/210436893-92b24dfb-6d91-48db-a220-c8c86b73a1a0.jpg)
+![rock-paper-scissors-neon-icons-vector](https://user-images.githubusercontent.com/117317215/210437440-4111edac-b568-40df-baf6-5ad1f512a153.jpg)
+
 
 Project Documentation
 This project uses the web application TeachableMachine to train a deep learning model to recognise whether the user is displaying to the webcam rock, paper, or scissors, and executes the logic for a best-of-three game between user and computer.
