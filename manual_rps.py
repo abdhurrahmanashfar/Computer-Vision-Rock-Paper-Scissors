@@ -4,7 +4,7 @@ import random
 
 def get_computer_choice():
     word_list = ["rock", "paper", "scissors"]
-    computer_choice = random.choice(word_list)
+    computer_choice = random.choice(word_list).lower()
     return computer_choice
 
 
